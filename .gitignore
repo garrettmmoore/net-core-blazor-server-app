@@ -1,0 +1,12 @@
+bin/
+obj/
+/packages/
+/.idea/.idea.BlazorApp/.idea/.gitignore
+/.idea/.gitignore
+/.idea/.idea.BlazorApp/.idea/contentModel.xml
+/.idea/.idea.BlazorApp/.idea/encodings.xml
+/.idea/.idea.BlazorApp/.idea/indexLayout.xml
+/.idea/.idea.BlazorApp/.idea/modules.xml
+/.idea/.idea.BlazorApp/.idea/projectSettingsUpdater.xml
+/.idea/.idea.BlazorApp/riderModule.iml
+/.idea/.idea.BlazorApp/.idea/vcs.xml
